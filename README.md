@@ -41,7 +41,7 @@ The study systematically investigates:
 The target system is a hierarchical architecture based on:
 
 <p align="center">
-  <img src="assets/Interface_chemistry.png" alt="Liquid-liquid interface and hierarchical perovskite self-assembly" width="850">
+  <img src="assets/interface_chemistry.png" alt="Liquid-liquid interface and hierarchical perovskite self-assembly" width="850">
 </p>
 
 ---
@@ -167,6 +167,15 @@ The poster reports substantial tuning of the optical response across the investi
 These trends connect the **chemical environment at the interface** to changes in the structural and optoelectronic landscape of the perovskite.
 
 ---
+
+# 💧 Contact Angle Measurements
+
+Contact angle measurements of FAPbBr₃ perovskite films with increasing BABr content in ETAC (0.25–1.5 mmol). The results illustrate the evolution of surface wettability as the BABr concentration increases, compared with pristine FAPbBr₃ and the BA₂PbBr₄ reference.
+
+<p align="center">
+  <img src="assets/contact_angle.png" alt="Morphology and structural evolution with BABr content" width="900">
+</p>
+
 
 # 🧠 Scientific picture
 
