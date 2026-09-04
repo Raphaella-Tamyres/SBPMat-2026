@@ -248,9 +248,9 @@ This work demonstrates that **interfacial chemistry and solvent engineering are 
 
 ## 📚 References
 
-1. Y. Hou et al. *Self-Assembly of 0D/3D Perovskite Bi-Layer from a Micro-Emulsion Ink.* **Advanced Energy Materials**, 13, 28 (2023).
-2. J. J. Yoo et al. *An interface stabilized perovskite solar cell with high stabilized efficiency and low voltage loss.* **Energy & Environmental Science**, 12, 7 (2019).
-3. K. Liu et al. *Architecturing 1D-2D-3D Multidimensional Coupled CsPbI₂Br Perovskites toward Highly Effective and Stable Solar Cells.* **Small**, 17, 25 (2021).
+1. Y. Hou et al. **Self-Assembly of 0D/3D Perovskite Bi-Layer from a Micro-Emulsion Ink.** *Advanced Energy Materials*, 13, 28 (2023).
+2. J. J. Yoo et al. **An interface stabilized perovskite solar cell with high stabilized efficiency and low voltage loss.** *Energy & Environmental Science*, 12, 7 (2019).
+3. K. Liu et al. **Architecturing 1D-2D-3D Multidimensional Coupled CsPbI₂Br Perovskites toward Highly Effective and Stable Solar Cells.** *Small*, 17, 25 (2021).
 
 ---
 
