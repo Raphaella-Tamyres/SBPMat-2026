@@ -40,16 +40,9 @@ The study systematically investigates:
 
 The target system is a hierarchical architecture based on:
 
-```text
-          Low-dimensional phase
-                ↓
-        BA₂FAn−1PbnBr₃n+1
-                │
-                │ interface
-                ▼
-            FAPbBr₃
-          3D perovskite
-```
+<p align="center">
+  <img src="assets/Interface_chemistry.png" alt="Liquid-liquid interface and hierarchical perovskite self-assembly" width="850">
+</p>
 
 ---
 
