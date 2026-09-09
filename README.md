@@ -10,7 +10,7 @@
 [![UFABC](https://img.shields.io/badge/institution-UFABC-0f766e?style=for-the-badge)](#)
 
 <p align="center">
-  <img src="assets/poster_sbp_mat_2026.png" alt="SBPMat 2026 poster" width="900">
+  <img src="assets/Poster_SBPMAT_2026.png" alt="SBPMat 2026 poster" width="900">
 </p>
 
 ## 🌌 From interfaces to hierarchical perovskites
