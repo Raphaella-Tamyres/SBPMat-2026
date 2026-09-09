@@ -1,4 +1,4 @@
-# 🧪 Interfacial Chemistry-Driven Self-Assembly of Hierarchical 3D / Low-Dimensional Lead Halide Perovskites
+# ⚗️ Interfacial Chemistry-Driven Self-Assembly of Hierarchical 3D / Low-Dimensional Lead Halide Perovskites
 
 > **SBPMat / B-MRS Meeting 2026 — Curitiba, Brazil**  
 > **Raphaella T. S. Gonçalves¹ · André L. M. Freitas¹**  
@@ -61,7 +61,7 @@ A biphasic system enables the heterogeneous assembly of a low-dimensional perovs
 | ⚗️ Solvent polarity | Controls precursor environment and phase formation |
 | 🔄 Limited miscibility | Maintains spatially distinct phases |
 | 🧲 Low coordination to precursors | Helps regulate precursor availability |
-| 🌱 Controlled nucleation | Influences heterogeneous growth |
+| 🧫 Controlled nucleation | Influences heterogeneous growth |
 | 🛡️ Reduced dissolution | Helps preserve the underlying 3D phase |
 
 **Design principle:**  
@@ -177,9 +177,9 @@ Contact angle measurements of FAPbBr₃ perovskite films with increasing BABr co
 </p>
 
 
-# 🧠 Scientific picture
+# 🧠 Scientific method
 
-The working picture developed in this study is:
+The workflow developed in this study is:
 
 ```text
        BABr concentration
@@ -233,14 +233,14 @@ Therefore, the objective is not to maximize the low-dimensional phase, but to id
 
 This work demonstrates that **interfacial chemistry and solvent engineering are promising tools for fabricating hierarchical 3D/quasi-2D perovskite heterostructures with controlled morphology and optoelectronic properties**.
 
-### 🔭 Next steps
+### 📈 Next steps
 
 - Expand the family of **spacer cations**
 - Evaluate **device performance**
 - Investigate **stability**
 - Refine the relationship between **interface → structure → properties**
 
-### 🧩 Scientific takeaway
+### ✅ Scientific takeaway
 
 **BABr concentration acts as a powerful structural and optoelectronic tuning parameter**, while the solvent/interface environment provides an additional degree of control over self-assembly.
 
@@ -265,7 +265,7 @@ This work demonstrates that **interfacial chemistry and solvent engineering are 
 
 ---
 
-## 🏆 Presented at
+## 🪧 Presented at
 
 **XXIV SBPMat / B-MRS Meeting 2026**  
 📍 Curitiba, Brazil
