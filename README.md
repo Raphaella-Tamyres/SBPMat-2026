@@ -32,7 +32,7 @@ Instead of treating these phases independently, the work investigates how a **li
 The study systematically investigates:
 
 - 🧴 **Solvent polarity, miscibility and solubility**
-- 🧬 **BABr concentration**
+- 🧪 **BABr concentration**
 - 🧱 **Nucleation and growth kinetics**
 - 🔬 **Morphology and structure**
 - 💡 **Optical and optoelectronic response**
