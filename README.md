@@ -155,7 +155,7 @@ SEM analyses reveal that altering the BABr content modifies the morphology from 
 # 📊 Structure: the transition from FA-rich phase to BA-rich phase
 
 <p align="center">
-  <img src="assets/structure" alt="Structural evolution with BABr content" width="900">
+  <img src="assets/structure.png" alt="Structural evolution with BABr content" width="900">
 </p>
 
 XRD analyses reveal that changing the BABr content modifies the structure from 3D to quasi-2D as the BABr content increases, with the secondary phase disappearing.
