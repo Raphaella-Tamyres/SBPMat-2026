@@ -152,7 +152,7 @@ SEM analyses reveal that altering the BABr content modifies the morphology from 
 
 ---
 
-# 📊 Structure: the transition from FA-rich phase to BA-rich phase
+# 📊 Structure: the transition from FA-rich to BA-rich phase
 
 <p align="center">
   <img src="assets/structure.png" alt="Structural evolution with BABr content" width="900">
