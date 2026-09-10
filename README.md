@@ -212,7 +212,7 @@ Contact angle measurements of FAPbBr₃ perovskite films with increasing BABr co
 </p>
 
 
-# 🧠 Scientific method
+# ⚙️ Scientific method
 
 The workflow developed in this study is:
 
