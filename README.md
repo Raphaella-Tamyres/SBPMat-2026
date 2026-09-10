@@ -51,7 +51,7 @@ The target system is a hierarchical architecture based on:
 A biphasic system enables the heterogeneous assembly of a low-dimensional perovskite phase on preformed 3D microcrystals, potentially generating **core–shell / embedded architectures with controlled growth**.
 
 <p align="center">
-  <img src="assets/self_assembly_schematic.png" alt="Liquid-liquid interface and hierarchical perovskite self-assembly" width="850">
+  <img src="assets/self_assembly_schematic.png" alt="Conversion between 3D, quasi-2D, 2D and hierarchical phases" width="850">
 </p>
 
 ### The interface is designed to provide
@@ -126,6 +126,11 @@ quasi-2D
         ↓
 LD-rich / 2D-like
 ```
+**The gradient of color from orange (FA-rich) to greenish (BA-rich) is observed in both dispersion and powder forms:**
+
+<p align="center">
+  <img src="assets/color_gradient.png" alt="Color gradient according to the increase in BA content" width="850">
+</p>
 
 The poster identifies BABr as a key parameter controlling:
 
@@ -140,10 +145,20 @@ The poster identifies BABr as a key parameter controlling:
 # 🔬 Morphology: the interface leaves a fingerprint
 
 <p align="center">
-  <img src="assets/morphology.png" alt="Morphology and structural evolution with BABr content" width="900">
+  <img src="assets/morphology.png" alt="Morphology evolution with BABr content" width="900">
 </p>
 
-SEM and structural analyses reveal that changing BABr content modifies the resulting material architecture.
+SEM analyses reveal that altering the BABr content modifies the morphology from small cuboids to a lamellar shape.
+
+---
+
+# 📊 Structure: the transition from FA-rich phase to BA-rich phase
+
+<p align="center">
+  <img src="assets/structure" alt="Structural evolution with BABr content" width="900">
+</p>
+
+XRD analyses reveal that changing the BABr content modifies the structure from 3D to quasi-2D as the BABr content increases, with the secondary phase disappearing.
 
 The important point is not simply **“more BABr = more 2D”**, but that the **interfacial chemistry couples composition to nucleation, growth, morphology and structural organization**.
 
