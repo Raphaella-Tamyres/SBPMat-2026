@@ -160,8 +160,8 @@ SEM analyses reveal that altering the BABr content modifies the morphology from 
 
 XRD analyses reveal that changing the BABr content modifies the structure from 3D to quasi-2D as the BABr content increases, with the secondary phase disappearing.
 
-<div align="center">
->The important point is not simply **“more BABr = more 2D”**, but that the **interfacial chemistry couples composition to nucleation, growth, morphology and structural organization**.
+<div style="border: 2px solid #7c3aed; border-radius: 12px; padding: 20px; background-color: #f5f3ff;">
+The important point is not simply **“more BABr = more 2D”**, but that the **interfacial chemistry couples composition to nucleation, growth, morphology and structural organization**.
 </div>
 
 ---
