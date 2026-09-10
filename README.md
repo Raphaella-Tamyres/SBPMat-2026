@@ -132,7 +132,13 @@ LD-rich / 2D-like
   <img src="assets/color_gradient.png" alt="Color gradient according to the increase in BA content" width="850">
 </p>
 
-The poster identifies BABr as a key parameter controlling:
+Other synthesis strategies result in distinct color evolution with increasing BABr content.
+
+<p align="center">
+  <img src="assets/gradient_group.png" alt="Color gradients corresponding to increasing BA content under different synthesis strategies." width="850">
+</p>
+
+This research identifies BABr as a key parameter controlling:
 
 - morphology;
 - structure;
