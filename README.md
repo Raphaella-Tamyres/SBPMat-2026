@@ -44,6 +44,10 @@ The target system is a hierarchical architecture based on:
   <img src="assets/interface_chemistry.png" alt="Liquid-liquid interface and hierarchical perovskite self-assembly" width="850">
 </p>
 
+<p align="center">
+  <img src="assets/syntheses.gif" alt="animation of synthesis strategies" width="850">
+</p>
+
 ---
 
 ## 🧩 Why a liquid–liquid interface?
@@ -75,10 +79,6 @@ The work compares multiple synthetic routes toward FAPbBr₃-based hierarchical 
 
 <p align="center">
   <img src="assets/experimental_strategy.png" alt="Experimental procedures and synthesis routes" width="850">
-</p>
-
-<p align="center">
-  <img src="assets/syntheses.gif" alt="animation of synthesis strategies" width="850">
 </p>
 
 ### Workflow
