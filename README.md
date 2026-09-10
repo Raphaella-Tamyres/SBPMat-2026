@@ -77,6 +77,10 @@ The work compares multiple synthetic routes toward FAPbBr₃-based hierarchical 
   <img src="assets/experimental_strategy.png" alt="Experimental procedures and synthesis routes" width="850">
 </p>
 
+<p align="center">
+  <img src="assets/syntheses.gif" alt="animation of synthesis strategies" width="850">
+</p>
+
 ### Workflow
 
 ```mermaid
