@@ -178,6 +178,10 @@ The key point is that **interfacial chemistry couples composition to nucleation,
 </tr>
 </table>
 
+<!--
+The important point is not simply **“more BABr = more 2D”**, but that the **interfacial chemistry couples composition to nucleation, growth, morphology and structural organization**.
+-->
+
 ---
 
 # 💡 Optoelectronic effects
