@@ -140,7 +140,7 @@ The poster identifies BABr as a key parameter controlling:
 # 🔬 Morphology: the interface leaves a fingerprint
 
 <p align="center">
-  <img src="assets/morphology_structure.png" alt="Morphology and structural evolution with BABr content" width="900">
+  <img src="assets/morphology.png" alt="Morphology and structural evolution with BABr content" width="900">
 </p>
 
 SEM and structural analyses reveal that changing BABr content modifies the resulting material architecture.
